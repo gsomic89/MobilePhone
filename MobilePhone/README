@@ -1,0 +1,4 @@
+Java mini program with MobilePhone class utilizing ArrayList with encapsulation methods to reduce access by other classes, with basic Contact class to add contacts, 
+and user input menu class to interact with user.
+
+Missing: JUnit tests and other verification to protect against illegal user input, to be added soon
